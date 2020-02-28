@@ -18,6 +18,14 @@ public class LevelController : MonoBehaviour
                 return;
             }
         }
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+        if (SceneManager.sceneCountInBuildSettings-1 > currentSceneIndex)
+        {
+            SceneManager.LoadScene(currentSceneIndex + 1);
+        }
+        
+
     }
 }
