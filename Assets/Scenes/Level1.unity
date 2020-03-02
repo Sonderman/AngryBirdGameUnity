@@ -435,7 +435,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.6749997
+  orthographic size: 5.00625
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1794,7 +1794,7 @@ LineRenderer:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
+        value: 0.5918369
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -1836,7 +1836,7 @@ LineRenderer:
     numCornerVertices: 0
     numCapVertices: 0
     alignment: 0
-    textureMode: 0
+    textureMode: 1
     shadowBias: 0.5
     generateLightingData: 0
   m_UseWorldSpace: 1
