@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AllSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6bc5ad8c21b9b5743bdc752e9c0a74e3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d6322030f281f64408b3dcb917861922, type: 3}
+  - {fileID: 21300000, guid: 91354d30661a3fb4a8333362329a2bcf, type: 3}
+  - {fileID: 21300000, guid: 5a97d680dbdb3494086de782203d6703, type: 3}
+  - {fileID: 21300000, guid: 009f05012d2d18a408b91adcdbf19ce4, type: 3}
+  - {fileID: 21300000, guid: 622b939125141d241bc4af79aff6764c, type: 3}
+  - {fileID: 21300000, guid: ce837df16ded3b34f80012d5d28f4583, type: 3}
+  - {fileID: 21300000, guid: 524f44222beb13d4bbd4f1ddcc486717, type: 3}
+  - {fileID: 21300000, guid: 0714a822351b9ce47a17af736497a63a, type: 3}
+  - {fileID: 21300000, guid: eccf0922660bd244184c4dd3727e018a, type: 3}
+  - {fileID: 21300000, guid: 8c5258331f7a3354ba8342dbfc556fd4, type: 3}
+  - {fileID: 21300000, guid: 401eab53380d6004a9e1904a0d9496e7, type: 3}
+  - {fileID: 21300000, guid: 91f1c6a3f5c0fdd489ec687f5ac95169, type: 3}
+  - {fileID: 21300000, guid: 1210f1b3b456b0241aae05897fddd783, type: 3}
+  - {fileID: 21300000, guid: e88596f361c18ea4a9041962f1870678, type: 3}
+  - {fileID: 21300000, guid: 2c013d6461847854fabce6f5d9d28f33, type: 3}
+  - {fileID: 21300000, guid: c69c97b4866915645be6efacc13ffd0f, type: 3}
+  - {fileID: 21300000, guid: 5a835b75cbb90fb40ac5c6091301083a, type: 3}
+  - {fileID: 21300000, guid: ea791526d612b8743b546f2b83691f93, type: 3}
+  - {fileID: 21300000, guid: f9ba96b6499a27c46b0b23c2f9ec392c, type: 3}
+  - {fileID: 21300000, guid: 5381adb69c3f5444fa6a0f2f4bc22568, type: 3}
+  - {fileID: 21300000, guid: 36e8c4c6637ea6b47a85b5109e534984, type: 3}
+  - {fileID: 21300000, guid: c7726447c8663b149bc080925802c4fc, type: 3}
+  - {fileID: 21300000, guid: b68e78673a662bd4b9eb8cc8c4581251, type: 3}
+  - {fileID: 21300000, guid: 86fa9e488fbf9c5468b384b6f7f8c292, type: 3}
+  - {fileID: 21300000, guid: a6091a58f594d3742b9ff9c23dd0ca83, type: 3}
+  - {fileID: 21300000, guid: 28cc0c686c2d4e44ab1c777418209baa, type: 3}
+  - {fileID: 21300000, guid: 0605ccd90f821e044896949bdec8b47c, type: 3}
+  - {fileID: 21300000, guid: b3f5091a3efe0c14ba9a4da8fb86a937, type: 3}
+  - {fileID: 21300000, guid: 54f40b6ac5ee22a4c846275c9824f5ba, type: 3}
+  - {fileID: 21300000, guid: 8fa07ada9804e3147bebd6b1ebdc7cac, type: 3}
+  - {fileID: 21300000, guid: dbfea08b465c9ba4f85b39f1cddc25ce, type: 3}
+  - {fileID: 21300000, guid: 2627346cf6ab4ff478b6a8e685341d82, type: 3}
+  - {fileID: 21300000, guid: d0c0bedc2b4f53547be5ece86dbaff50, type: 3}
+  - {fileID: 21300000, guid: f1148decc865ac04ca3e8d89d79dd3a3, type: 3}
+  - {fileID: 21300000, guid: accd1a9dfb7a6984cb73e641b4378851, type: 3}
+  - {fileID: 21300000, guid: 5d77475ef4fb8e64d99289c7d7dca516, type: 3}
+  - {fileID: 21300000, guid: 40c64bafbf965e84c93499271e3ac7a8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - monster-2
+  - bird-5
+  - Monster_Boss-1
+  - bird-8
+  - Glass Fragment3
+  - Glass Platform Long
+  - Glass Fragment1
+  - Glass Fragment2
+  - Bouncy Platform Long
+  - Bouncy Platform Small
+  - Glass Square
+  - Bouncy Square
+  - Ice Square
+  - Wood Platform Medium
+  - Wood Platform Small
+  - cloud-1
+  - Wood Platform Long
+  - Ice Platform Small
+  - bird-6
+  - Wood Square
+  - Monster_Boss-2
+  - WhiteArrow
+  - Glass Platform Medium
+  - monster-1
+  - slingshot
+  - bird-2
+  - Bouncy Platform Medium
+  - bird-1
+  - Ice Platform Long
+  - Ice Platform Medium
+  - Full-Background
+  - Crate
+  - Glass Platform Short
+  - bird-7
+  - bird-4
+  - bird-3
+  - feather
+  m_RenderDataMap: {}
+  m_Tag: AllSprites
+  m_IsVariant: 0
